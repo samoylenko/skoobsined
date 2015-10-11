@@ -2,6 +2,6 @@
 
 DirectDraw, C++, ASM, Custom raster font with varied char width
 
-Screenshots:
+Screenshots:  
 ![Screenshot1](/_screenshots/1.png)
 ![Screenshot2](/_screenshots/2.png)
